@@ -1,0 +1,160 @@
+18/09/20 17:16:27 Xvnc version TightVNC-1.3.10
+18/09/20 17:16:27 Copyright (C) 2000-2009 TightVNC Group
+18/09/20 17:16:27 Copyright (C) 1999 AT&T Laboratories Cambridge
+18/09/20 17:16:27 All Rights Reserved.
+18/09/20 17:16:27 See http://www.tightvnc.com/ for information on TightVNC
+18/09/20 17:16:27 Desktop name 'X' (devopslearn2c.mylabserver.com:1)
+18/09/20 17:16:27 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+18/09/20 17:16:27 Listening for VNC connections on TCP port 5901
+Font directory '/usr/share/fonts/X11/75dpi/' not found - ignoring
+Font directory '/usr/share/fonts/X11/100dpi/' not found - ignoring
+xrdb: No such file or directory
+xrdb: can't open file '/home/cloud_user/.Xresources'
+/usr/bin/startxfce4: X server already running on display :1
+Xlib:  extension "RANDR" missing on display ":1".
+gpg-agent[2815]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+
+(xfce4-session:2742): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+gpg-agent[2860]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2742): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/cloud_user/.cache/sessions/xfce4-session-devopslearn2c.mylabserver.com:1, Does it exist? Permissions issue?
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+** (xfce4-volumed:2945): WARNING **: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt><Shift>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt><Shift>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Alt><Shift>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Binding '<Ctrl><Shift><Alt>XF86AudioMute' failed!
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+** (xfce4-volumed:2945): WARNING **: Failed to map virtual modifiers
+
+(xfwm4:2862): xfwm4-WARNING **: The display does not support the XRender extension.
+
+(xfwm4:2862): xfwm4-WARNING **: The display does not support the XRandr extension.
+
+(xfwm4:2862): xfwm4-WARNING **: The display does not support the XComposite extension.
+
+(xfwm4:2862): xfwm4-WARNING **: The display does not support the XDamage extension.
+
+(xfwm4:2862): xfwm4-WARNING **: The display does not support the XFixes extension.
+
+(xfwm4:2862): xfwm4-WARNING **: Compositing manager disabled.
+
+(polkit-gnome-authentication-agent-1:2905): polkit-gnome-1-WARNING **: Unable to determine the session we are in: No session for pid 2905
+
+(xfsettingsd:2920): xfsettingsd-CRITICAL **: No RANDR extension found in display :1.0. Display settings won't be applied.
+Xlib:  extension "XInputExtension" missing on display ":1.0".
+
+(xfsettingsd:2920): xfsettingsd-CRITICAL **: XI is not present.
+
+(xfsettingsd:2920): xfsettingsd-CRITICAL **: Failed to initialize the Xkb extension.
+
+(xfsettingsd:2920): xfsettingsd-CRITICAL **: Failed to initialize the Accessibility extension.
+Failure: Module initialization failed
+
+(xfsettingsd:2920): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2862): xfwm4-WARNING **: Cannot find visual format on screen 0
+Xlib:  extension "RANDR" missing on display ":1.0".
+Xlib:  extension "RANDR" missing on display ":1.0".
+
+(nm-applet:3042): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Error executing command as another user: Not authorized
+
+This incident has been reported.
+
+(wrapper-1.0:3494): Gdk-WARNING **: /build/gtk+2.0-jJZIsQ/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
